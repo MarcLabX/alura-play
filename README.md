@@ -22,7 +22,7 @@ Alura Play é um site baseado no Youtube, onde são disponibilizados recursos, v
 <a href="https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMQMc9nQqaj-Su5TxxSdEYkzuV9HLOVi05c1PGYWvI75QPbxgJhRC90aAnZtEALw_wcB" target="_blank">Guia FlexBox por Juliana Amoasei</a> <br><br>
 
 <h2>🖥️ Layout</h2>
-Este projeto foi feito com a mentoria dos cursos da Alura, nele aprendi muitas propriedades e funcionalidades possíveis com o uso do FlexBox para a construção de uma plataforma de streaming bem interativa e completa. Aprendi a tamb+em aplicar design de forma responsiva.<br><br>
+Este projeto foi feito com a mentoria dos cursos da Alura, nele aprendi muitas propriedades e funcionalidades possíveis com o uso do FlexBox para a construção de uma plataforma de streaming bem interativa e completa. Aprendi a também a aplicar design de forma responsiva. Esta plataforma está disponível para celulares, tablets e desktop.<br><br>
 
 
 ![image](https://github.com/user-attachments/assets/867248d4-237a-48f6-8546-60a67320b514)
